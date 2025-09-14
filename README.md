@@ -39,6 +39,11 @@ Este projeto resolve o problema de:
     └─ resources/
     └─ application.yml/properties
 ```
+## Diagrama de Arquitetura Hexagonal
+
+![Diagrama em branco.png](pedido-hexagonal/Diagrama%20em%20branco.png)
+
+---
 
 ## Desafios enfrentados e como resolvi
 
